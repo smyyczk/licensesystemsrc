@@ -1,0 +1,6 @@
+{
+    "errorchecker": "false",
+    "mongouri": "TUTAJ MONGO URI",
+    "mongodbname": "TUTAJ NAZWA BAZY DANYCH",
+    "port": "3000"
+}
